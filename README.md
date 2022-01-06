@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/95712696?v=4" />
+   <img align="center" width="200" src="C:\Users\lunam\OneDrive\Desktop\ROLLING CODE\Modulo-2-GIT\MCeciliaLuna\profile-2.jpg" />
 <h1 align="center">Hi 🎨, I'm Cecilia</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
