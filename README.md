@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 🎨🌈 Soy María Cecilia</h1>
+<h1 align="center">Hola! 🎨🌈 Soy Cecilia,</h1>
 <h3 align="center">FRONT-END DEVELOPER pronta a graduarme de Rolling Code School Academy. Vivo en Tucumán (Argentina), y me apasiona la idea de hacer realidad tus proyectos.</h3>
 
 - 🔭 Estudio en [Rolling Code School](https://rollingcodeschool.com/)
