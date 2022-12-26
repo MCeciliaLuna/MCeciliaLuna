@@ -1,7 +1,7 @@
 <h1 align="center">Hola ✨, soy CECILIA,</h1>
 <h2 align="center">FULL STACK DEVELOPER Jr. 👩‍💻 graduada de Rolling Code School</h2>
 
-- 💻 Actualmente estoy trabajando en proyectos **PROYECTOS FREELANCES**
+- 💻 Actualmente estoy trabajando en **PROYECTOS FREELANCES**
 
 - 🦾 Hoy estoy profundizando mis conocimientos en **Javascript, React y NodeJs**
 
