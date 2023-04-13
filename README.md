@@ -15,7 +15,7 @@
 
 <h2 align="center">Encontrame en:</h2>
 <h3 align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mcecilialuna1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mcecilialuna1/" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/mcecilialuna1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mcecilialuna1/" height="70" width="70" /></a>
 </h3>
 
 <h2 align="center">Lenguajes y herramientas:</h2>
