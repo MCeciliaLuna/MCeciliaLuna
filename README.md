@@ -5,7 +5,7 @@
 
 - 🦾 Hoy estoy profundizando mis conocimientos en **Javascript, React y NodeJs**
 
-- 🎨 Mi último proyecto fue [BURGUER CODE - Proyecto Final RollingCodeSchool](https://burgercode.netlify.app/)
+- 🎨 Mi último proyecto fue [TO DO List App Web - Demostración de conocimientos REACT](https://todo-list-app-gl.netlify.app/)
 
 - 👀 Podés ver todos mis trabajos en [MI PORTFOLIO](https://mcecilialuna-dev.netlify.app/)
 
