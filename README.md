@@ -5,7 +5,7 @@
 
 - 🦾 Hoy estoy profundizando mis conocimientos en **Javascript, React y NodeJs**
 
-- 🎨 Mi último proyecto fue [TO DO List App Web - Demostración de conocimientos REACT](https://todo-list-app-gl.netlify.app/)
+- 🎨 Entre mis últimos proyectos se encuentran [**TO DO List App Web with REACT**](https://todo-list-app-gl.netlify.app/) y [**PHRASES API with NODE**](https://github.com/MCeciliaLuna/phrases-API)
 
 - 👀 Podés ver todos mis trabajos en [MI PORTFOLIO](https://mcecilialuna-dev.netlify.app/)
 
