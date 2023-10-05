@@ -11,7 +11,7 @@
 
 - 📩 Mi mail de contacto es **lunama.cecilia@live.com**
 
-- 🎈 Creo que soy demasiado **CREATIVA y CURIOSA**
+- 🎈 Creo que soy demasiado **CREATIVA**
 
 <h2 align="center">Encontrame en:</h2>
 <h3 align="center">
