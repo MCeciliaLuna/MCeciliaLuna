@@ -3,15 +3,15 @@
 
 - 💻 Actualmente estoy trabajando en **PROYECTOS FREELANCES**
 
-- 🦾 Hoy estoy profundizando mis conocimientos en **Javascript, React y NodeJs**
+- 🦾 Hoy estoy profundizando mis conocimientos en **NEXT.JS**
 
-- 🎨 Entre mis últimos proyectos se encuentran [**TO DO List App Web with REACT**](https://todo-list-app-gl.netlify.app/) y [**PHRASES API with NODE**](https://github.com/MCeciliaLuna/phrases-API)
+- 🎨 Entre mis últimos proyectos se encuentran [**WE LEARN Web with REACT**]([https://todo-list-app-gl.netlify.app/](https://welearnweb.netlify.app/)) y [**PHRASES API with NODE**](https://github.com/MCeciliaLuna/phrases-API)
 
 - 👀 Podés ver todos mis trabajos en [MI PORTFOLIO](https://mcecilialuna-dev.netlify.app/)
 
 - 📩 Mi mail de contacto es **lunama.cecilia@live.com**
 
-- 🎈 Creo que soy demasiado **CREATIVA**
+- 🎈 Creo que soy demasiado **CREATIVA y CURIOSA**
 
 <h2 align="center">Encontrame en:</h2>
 <h3 align="center">
