@@ -1,9 +1,9 @@
 <h1 align="center">Hola ✨, soy CECILIA,</h1>
 <h2 align="center">FULL STACK DEVELOPER Jr. 👩‍💻 graduada de Rolling Code School</h2>
 
-- 💻 Actualmente estoy trabajando en **PROYECTOS FREELANCES**
+- 💻 Actualmente estoy trabajando en **SIGMMA.net y CONTI Latam**
 
-- 🦾 Hoy estoy profundizando mis conocimientos en **NEXT.JS y TAILWIND**
+- 🦾 Hoy estoy profundizando mis conocimientos en **REACT NATIVE**
 
 - 🎨 Entre mis últimos proyectos se encuentran [**WE LEARN Web with REACT**](https://welearnweb.netlify.app/) y [**PHRASES API with NODE**](https://github.com/MCeciliaLuna/phrases-API)
 
