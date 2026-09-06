@@ -1,67 +1,110 @@
-<h1 align="center">¡Hola! ✨ soy María Cecilia Luna</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=55&pause=1000&color=FB4B4E&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+%E2%9C%A8+soy+Mar%C3%ADa+Cecilia" alt="¡Hola! soy María Cecilia" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=24&duration=4000&pause=1000&color=7C0B2B&center=true&vCenter=true&width=600&lines=Frontend+React+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Dise%C3%B1adora+UX%2FUI+%F0%9F%8E%A8;Docente+IT+%F0%9F%93%9A" alt="Roles" />
 
-<h3 align="center">Frontend React Developer, Diseñadora UX/UI & Docente IT 👩🏻‍💻</h3>
+  <p>
+    <i>Mate o café, una pc y siempre buena onda. Disfruto el proceso creativo de principio a fin,<br> combinando <b>tecnología, diseño y un propósito claro</b>.</i>
+  </p>
 
-<p align="center">
-  <i>Mate o café, una pc y siempre buena onda. Disfruto el proceso creativo de principio a fin. Pongo todo mi stack técnico y mi energía a disposición del proyecto. Apoyada en herramientas de IA y orientada a la mejora continua mediante metodologías ágiles.</i>
-</p>
+  <p>
+    <a href="https://mcecilialuna-dev.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/MI_PORTFOLIO-fbf9f4?style=for-the-badge&logo=Web&logoColor=fbf9f4&labelColor=7C0B2B" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/mcecilialuna1/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-fbf9f4?style=for-the-badge&logo=linkedin&logoColor=fbf9f4&labelColor=7C0B2B" alt="LinkedIn" />
+    </a>
+    <a href="mailto:lunama.cecilia@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/EMAIL-fbf9f4?style=for-the-badge&logo=gmail&logoColor=fbf9f4&labelColor=7C0B2B" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://mcecilialuna-dev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-7C0B2B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/mcecilialuna1/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-FB4B4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lunama.cecilia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D10000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=35&pause=1000&color=D10000&center=true&vCenter=true&width=400&lines=Mi+caja+de+herramientas" alt="Herramientas" />
+</div>
 
-### 🛠️ Mi caja de herramientas
+<table align="center" width="100%" style="border-collapse: collapse; text-align: center; border: none;">
+  <tr style="border: none;">
+    <td width="33%" valign="top" style="border: none;">
+      <h3 align="center" style="color:#7C0B2B;">💻 Código</h3>
+      <img src="https://img.shields.io/badge/React.js-fbf9f4?style=for-the-badge&logo=react&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/Next.js-fbf9f4?style=for-the-badge&logo=nextdotjs&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-fbf9f4?style=for-the-badge&logo=javascript&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/HTML5_%26_CSS3-fbf9f4?style=for-the-badge&logo=css3&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/Express.js-fbf9f4?style=for-the-badge&logo=express&logoColor=FB4B4E&labelColor=3E000C" />
+    </td>
+    <td width="33%" valign="top" style="border: none;">
+      <h3 align="center" style="color:#7C0B2B;">🎨 Diseño & IA</h3>
+      <img src="https://img.shields.io/badge/UX/UI_Design-fbf9f4?style=for-the-badge&logo=figma&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/Figma-fbf9f4?style=for-the-badge&logo=figma&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/Claude_Code-fbf9f4?style=for-the-badge&logo=anthropic&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/Prompt_Eng.-fbf9f4?style=for-the-badge&logo=openai&logoColor=FB4B4E&labelColor=3E000C" />
+    </td>
+    <td width="33%" valign="top" style="border: none;">
+      <h3 align="center" style="color:#7C0B2B;">🎯 Gestión</h3>
+      <img src="https://img.shields.io/badge/Git_%26_GitHub-fbf9f4?style=for-the-badge&logo=github&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/Scrum_Master-fbf9f4?style=for-the-badge&logo=scrum&logoColor=FB4B4E&labelColor=3E000C" /><br/>
+      <img src="https://img.shields.io/badge/Project_Mgmt.-fbf9f4?style=for-the-badge&logo=trello&logoColor=FB4B4E&labelColor=3E000C" />
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">Desarrollo Frontend & Backend</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/React.js-201a1e?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-201a1e?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-201a1e?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-201a1e?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-201a1e?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Express.js-201a1e?style=flat-square&logo=express&logoColor=white" />
-</p>
+<br/>
 
-<h4 align="center">Diseño UX/UI & IA</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-3E000C?style=flat-square&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/Claude_Code-3E000C?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-3E000C?style=flat-square&logo=openai&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=35&pause=1000&color=7C0B2B&center=true&vCenter=true&width=500&lines=Experiencia+y+Proyectos" alt="Experiencia y Proyectos" />
+</div>
 
-<h4 align="center">Gestión & Metodologías</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scrum-7C0B2B?style=flat-square&logo=scrum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Project_Management-7C0B2B?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_&_GitHub-7C0B2B?style=flat-square&logo=git&logoColor=F05032" />
-</p>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4>🔴 Sigmma.net</h4>
+      <p>Desarrollo de aplicación web institucional enfocada en rendimiento y escalabilidad con <b>Next.js</b>.</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4>🍷 Bless Inmobiliaria</h4>
+      <p>Desarrollo integral Full Stack de plataforma web empresarial y panel de administración en <b>React.js</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4>🌍 Fundación Valores</h4>
+      <p>Creación del ecosistema web institucional para la gestión interna de la ONG con <b>React.js</b>.</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4>📝 Procrastinant APP</h4>
+      <p>Aplicación web para gestión de tareas (checklist) implementando <b>Prompt Engineering avanzado</b> e IA.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4>💬 Phrases API</h4>
+      <p>Desarrollo de una API RESTful de frases temáticas usando <b>Express.js</b>.</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4>📱 Plan Go APP</h4>
+      <p>Diseño integral de interfaz <b>UX/UI mobile</b> para una aplicación de gestión y agenda de eventos.</p>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 🚀 Experiencia & Proyectos Destacados
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=35&pause=1000&color=FB4B4E&center=true&vCenter=true&width=400&lines=Modo+Aprendizaje+ON" alt="Modo Aprendizaje" />
+</div>
 
-- 🏢 **Sigmma.net** — Desarrollo de aplicación web institucional enfocada en rendimiento y escalabilidad *(Next.js)*
-- 💼 **Bless Inmobiliaria** — Desarrollo integral Full Stack de plataforma web empresarial y panel de administración *(React.js)*
-- 🌍 **Fundación Valores Para Mi Ciudad** — Creación del ecosistema web institucional para gestión interna de la ONG *(React.js)*
-- 📝 **Procrastinant APP** — Web para gestión de tareas (checklist) aplicando Prompt Engineering avanzado *(IA)*
-- 💬 **Phrases API** — Desarrollo de una API RESTful de frases temáticas *(Express.js)*
-- 📱 **Plan Go APP** — Diseño integral de interfaz UX/UI mobile de gestión y agenda de eventos
-- ⛪ **Iglesia de Cristo Tucumán** — Diseño UX y desarrollo técnico de landing page priorizando accesibilidad *(React.js)*
-
----
-
-### 🎓 Modo Aprendizaje ON
-
-- 📖 Cursando **Project Management** (UTN-BA)
-- 🤖 Especialización en **Claude Code** y **Prompt Engineering para desarrolladores Frontend** (2026)
-- 🎨 Diplomatura en **Desarrollo Web UX/UI** (2025) y **Agile Management** (2024)
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Cursando-Project_Management_(UTN_BA)-fbf9f4?style=flat-square&logo=book&logoColor=FB4B4E&labelColor=7C0B2B" alt="Project Management" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/2026-Esp._Claude_Code_%26_Prompt_Eng.-fbf9f4?style=flat-square&logo=anthropic&logoColor=FB4B4E&labelColor=7C0B2B" alt="IA" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/2025-Diplomatura_Desarrollo_Web_UX/UI-fbf9f4?style=flat-square&logo=figma&logoColor=FB4B4E&labelColor=7C0B2B" alt="Diplomatura UX/UI" />
+  </p>
+</div>
