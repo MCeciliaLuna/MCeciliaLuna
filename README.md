@@ -1,26 +1,78 @@
-<h1 align="center">Hola ✨, soy CECILIA,</h1>
-<h2 align="center">FULL STACK DEVELOPER Jr. 👩‍💻 graduada de Rolling Code School</h2>
+<h1 align="center">¡Hola! ✨ soy María Cecilia Luna</h1>
 
-- 💻 Actualmente estoy trabajando en **SIGMMA.net y CONTI Latam**
+<h3 align="center">Frontend React Developer, Diseñadora UX/UI & Docente IT 👩🏻‍💻</h3>
 
-- 🦾 Hoy estoy profundizando mis conocimientos en **REACT NATIVE**
+<p align="center">
+  <i>Mate o café, una pc y siempre buena onda. Disfruto el proceso creativo de principio a fin. Pongo todo mi stack técnico y mi energía a disposición del proyecto. Apoyada en herramientas de IA y orientada a la mejora continua mediante metodologías ágiles.</i>
+</p>
 
-- 🎨 Entre mis últimos proyectos se encuentran [**WE LEARN Web with REACT**](https://welearnweb.netlify.app/) y [**PHRASES API with NODE**](https://github.com/MCeciliaLuna/phrases-API)
+<p align="center">
+  <a href="https://mcecilialuna-dev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C0B2B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/mcecilialuna1/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-FB4B4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lunama.cecilia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D10000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- 👀 Podés ver todos mis trabajos en [MI PORTFOLIO](https://mcecilialuna-dev.netlify.app/)
+---
 
-- 📩 Mi mail de contacto es **lunama.cecilia@live.com**
+### 🛠️ Mi caja de herramientas
 
-- 🚀 Creo que soy demasiado **CREATIVA**
+<h4 align="center">Desarrollo Frontend & Backend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-201a1e?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-201a1e?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-201a1e?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-201a1e?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-201a1e?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Express.js-201a1e?style=flat-square&logo=express&logoColor=white" />
+</p>
 
-<h2 align="center">Encontrame en:</h2>
-<h3 align="center">
-<a href="https://linkedin.com/in/mcecilialuna1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mcecilialuna1/" height="70" width="70" /></a>
-</h3>
+<h4 align="center">Diseño UX/UI & IA</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-3E000C?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Claude_Code-3E000C?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-3E000C?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
-<h2 align="center">Lenguajes y herramientas:</h2>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> </p>
+<h4 align="center">Gestión & Metodologías</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum-7C0B2B?style=flat-square&logo=scrum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project_Management-7C0B2B?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-7C0B2B?style=flat-square&logo=git&logoColor=F05032" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcecilialuna&show_icons=true&locale=en&layout=compact" alt="mcecilialuna" /></p>
-<hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcecilialuna" alt="mcecilialuna" /></a> </p>
+---
+
+### 🚀 Experiencia & Proyectos Destacados
+
+- 🏢 **Sigmma.net** — Desarrollo de aplicación web institucional enfocada en rendimiento y escalabilidad *(Next.js)*
+- 💼 **Bless Inmobiliaria** — Desarrollo integral Full Stack de plataforma web empresarial y panel de administración *(React.js)*
+- 🌍 **Fundación Valores Para Mi Ciudad** — Creación del ecosistema web institucional para gestión interna de la ONG *(React.js)*
+- 📝 **Procrastinant APP** — Web para gestión de tareas (checklist) aplicando Prompt Engineering avanzado *(IA)*
+- 💬 **Phrases API** — Desarrollo de una API RESTful de frases temáticas *(Express.js)*
+- 📱 **Plan Go APP** — Diseño integral de interfaz UX/UI mobile de gestión y agenda de eventos
+- ⛪ **Iglesia de Cristo Tucumán** — Diseño UX y desarrollo técnico de landing page priorizando accesibilidad *(React.js)*
+
+---
+
+### 🎓 Modo Aprendizaje ON
+
+- 📖 Cursando **Project Management** (UTN-BA)
+- 🤖 Especialización en **Claude Code** y **Prompt Engineering para desarrolladores Frontend** (2026)
+- 🎨 Diplomatura en **Desarrollo Web UX/UI** (2025) y **Agile Management** (2024)
+
+---
+
+### 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mcecilialuna&show_icons=true&title_color=FB4B4E&text_color=201a1e&bg_color=fbf9f4&hide_border=true&icon_color=7C0B2B" alt="Estadísticas de Cecilia" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcecilialuna&show_icons=true&locale=es&layout=compact&title_color=FB4B4E&text_color=201a1e&bg_color=fbf9f4&hide_border=true&icon_color=7C0B2B" alt="Lenguajes de Cecilia" />
+</p>
