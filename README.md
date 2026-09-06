@@ -15,9 +15,6 @@
   <a href="https://linkedin.com/in/mcecilialuna1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-E00055?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:lunama.cecilia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFA033?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <hr style="border: 1px solid #c2cc00;" />
