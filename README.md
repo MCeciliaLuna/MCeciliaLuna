@@ -1,217 +1,201 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/cecilia-readme-header.svg" alt="Cecilia Luna — Frontend · Full Stack · UX/UI · AI" width="100%">
+</p>
 
-<img src="./header.svg" alt="Cecilia Luna — Full Stack Developer" width="100%" />
+<p align="center">
+  <a href="https://mcecilialuna-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-3E000C?style=for-the-badge&logo=netlify&logoColor=FFCBDD" alt="Portfolio">
+  </a>
+  <a href="https://www.youtube.com/watch?v=4pwIPI3ecD8&t=231s">
+    <img src="https://img.shields.io/badge/ROLLING_CODE_CASE-7C0B2B?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="Entrevista en Rolling Code">
+  </a>
+</p>
 
-### Transformando ideas en experiencias web dinámicas e intuitivas ✨
-
-**Frontend · Full Stack · UX/UI · IA aplicada · Docencia**
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-201a1e?style=for-the-badge\&logo=netlify\&logoColor=FB4B4E\&labelColor=3E000C)](https://mcecilialuna-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-201a1e?style=for-the-badge\&logo=linkedin\&logoColor=FFCBDD\&labelColor=3E000C)](https://www.linkedin.com/in/mcecilialuna/)
-[![YouTube](https://img.shields.io/badge/ENTREVISTA-201a1e?style=for-the-badge\&logo=youtube\&logoColor=D10000\&labelColor=3E000C)](https://www.youtube.com/watch?v=4pwIPI3ecD8&t=231s)
-
-</div>
-
-<br />
+<p align="center">
+  <i>Desarrollo productos digitales con una mezcla bastante deliberada de código, UX/UI, IA y curiosidad.</i>
+</p>
 
 ---
+
+<img src="./assets/cecilia-readme-divider.svg" alt="" width="100%">
 
 ## ✦ Sobre mí
 
-> **Desarrollo productos digitales con propósito, combinando tecnología, experiencia de usuario y creatividad.**
+Disfruto de todo el proceso creativo de principio a fin y me encanta estar siempre aprendiendo y actualizándome. Pongo todo mi stack, mi energía y mi compromiso a disposición del equipo porque amo sentir que cada paso tiene un sentido real.
 
-Disfruto de todo el proceso creativo, desde transformar una idea inicial en una solución concreta hasta verla funcionando en manos de las personas que la necesitan.
+Me adapto súper fácil a las dinámicas grupales, pero también soy bastante autogestionable y —dato de color— ¡no tengo miedo a aparecer en cámaras, ja!
 
-Me gusta aprender, experimentar y mantenerme actualizada, especialmente en un ecosistema tan dinámico como el desarrollo web.
+Por último, me apasiona compartir lo que sé, y tengo una convicción muy clara: los mejores productos nacen cuando hay un propósito claro, un gran equipo y, obvio, un par de risas en el medio.
 
-Trabajo cómodamente en equipo, pero también soy muy autogestionable. Me involucro, propongo, resuelvo y busco que cada decisión tenga un sentido real dentro del proyecto.
-
-Y sí: **no tengo miedo a aparecer frente a una cámara.** 🎥
-
-<br />
-
----
-
-## ⚡ Stack tecnológico
-
-### Frontend
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React.js-201a1e?style=for-the-badge\&logo=react\&logoColor=FB4B4E)
-![Next.js](https://img.shields.io/badge/Next.js-201a1e?style=for-the-badge\&logo=nextdotjs\&logoColor=FB4B4E)
-![JavaScript](https://img.shields.io/badge/JavaScript-201a1e?style=for-the-badge\&logo=javascript\&logoColor=FB4B4E)
-![HTML5](https://img.shields.io/badge/HTML5-201a1e?style=for-the-badge\&logo=html5\&logoColor=FB4B4E)
-![CSS3](https://img.shields.io/badge/CSS3-201a1e?style=for-the-badge\&logo=css3\&logoColor=FB4B4E)
-
-</div>
-
-### Backend
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-3E000C?style=for-the-badge\&logo=nodedotjs\&logoColor=FFCBDD)
-![Express.js](https://img.shields.io/badge/Express.js-3E000C?style=for-the-badge\&logo=express\&logoColor=FFCBDD)
-![MongoDB](https://img.shields.io/badge/MongoDB-3E000C?style=for-the-badge\&logo=mongodb\&logoColor=FFCBDD)
-
-</div>
-
-### AI & Automation
-
-<div align="center">
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-7C0B2B?style=for-the-badge\&logo=anthropic\&logoColor=FBF9F4)
-![Antigravity](https://img.shields.io/badge/Antigravity-7C0B2B?style=for-the-badge\&logoColor=FBF9F4)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C0B2B?style=for-the-badge\&logo=openai\&logoColor=FBF9F4)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-D10000?style=for-the-badge\&logo=gohighlevel\&logoColor=FBF9F4)
-
-</div>
-
-<br />
-
----
-
-## 🎯 Lo que hago
+### Actualmente, mi foco está en combinar
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 UX/UI
-
-Diseño centrado en las personas, usabilidad e interfaces eficientes.
-
-**Diplomatura en Desarrollo Web UX/UI — UTN.BA**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Desarrollo
-
-Construcción de aplicaciones web modernas, funcionales y escalables.
-
-**Frontend + Full Stack**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Inteligencia Artificial
-
-Integración de IA en procesos de desarrollo, productividad y aprendizaje.
-
-**Claude Code · Antigravity · Prompt Engineering**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👩‍🏫 Docencia
-
-Enseñanza de programación y acompañamiento de personas que están comenzando.
-
-**Programación + metodologías asistidas por IA**
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">⚡ <strong>Desarrollo</strong><br>Frontend y Full Stack con JavaScript, React, Next.js, Node.js y Express.js.</td>
+    <td width="50%">✦ <strong>Producto</strong><br>UX/UI, arquitectura de información, usabilidad y rendimiento.</td>
+  </tr>
+  <tr>
+    <td width="50%">◈ <strong>IA aplicada</strong><br>Prompt Engineering, Claude Code y Antigravity como herramientas de desarrollo.</td>
+    <td width="50%">↗ <strong>Personas</strong><br>Docencia, mentoría y acompañamiento en procesos de aprendizaje IT.</td>
+  </tr>
 </table>
 
-<br />
+---
+
+## ⚙️ Stack tecnológico
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-3E000C?style=for-the-badge&logo=react&logoColor=FFCBDD" alt="React.js">
+  <img src="https://img.shields.io/badge/Next.js-3E000C?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
+  <img src="https://img.shields.io/badge/JavaScript-7C0B2B?style=for-the-badge&logo=javascript&logoColor=FFCBDD" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-7C0B2B?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-D10000?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-3E000C?style=for-the-badge&logo=nodedotjs&logoColor=FFCBDD" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-7C0B2B?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-D10000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Claude_Code-7C0B2B?style=for-the-badge&logo=anthropic&logoColor=FFCBDD" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Antigravity-3E000C?style=for-the-badge&logoColor=FFFFFF" alt="Antigravity">
+  <img src="https://img.shields.io/badge/GoHighLevel-D10000?style=for-the-badge&logoColor=FFFFFF" alt="GoHighLevel">
+</p>
 
 ---
 
-## 💼 Experiencia
+## 🧠 Skills
 
-### 💻 Programadora Full Stack
-
-**Fundación Valores Para Mi Ciudad** · `Mar 2026 — Presente`
-
-Desarrollo y mantenimiento de soluciones web orientadas a las necesidades de la organización.
-
-### 🏠 Programadora Full Stack
-
-**Bless Inmobiliaria** · `Feb 2026 — Presente`
-
-Desarrollo de soluciones digitales para el sector inmobiliario.
-
-### 🌐 Desarrolladora Front-end
-
-**SIGMMA.net** · `May 2024 — Presente`
-
-Desarrollo de interfaces web y soluciones frontend.
-
-### ⛪ Desarrolladora Front-end
-
-**Iglesia de Cristo Tucumán** · `Nov 2025 — Presente`
-
-Desarrollo y mantenimiento de experiencias digitales.
-
-### 👩‍🏫 Profesora de Programación
-
-**Instituto NOA — San Miguel de Tucumán** · `Ago 2025 — Presente`
-
-Enseñanza de programación y acompañamiento del proceso de aprendizaje.
-
-### 📱 Desarrolladora Front-end
-
-**CONTI Latam®** · `Nov 2024 — Dic 2025`
-
-Desarrollo frontend de soluciones digitales.
-
-### 🛒 Desarrolladora Web
-
-**La Quiaqueña Drugstores** · `Jul 2022 — Feb 2023`
-
-Desarrollo y mantenimiento de soluciones web para el comercio.
-
-<br />
+| Área | Qué aporto |
+|---|---|
+| **Desarrollo Web Full Stack** | Creación de aplicaciones web completas en frontend y backend, con foco en JavaScript y React (nivel avanzado). |
+| **UX/UI** | Diseño centrado en el usuario, usabilidad e interfaces eficientes, respaldado por formación específica en UX/UI. |
+| **Agile Management** | Aplicación de metodologías ágiles, marcos de trabajo y organización de equipos. |
+| **Prompt Engineering + IA** | Uso avanzado de IA orientada al desarrollo frontend y de herramientas de programación asistida como Claude Code. |
+| **Docencia + Mentoría** | Enseñanza de introducción a la programación, acompañamiento técnico y uso de IA aplicada a la comprensión práctica. |
 
 ---
 
-## 🎓 Formación
+## 🎓 Certificaciones
 
-| Formación                               | Institución         |   Año  |
-| :-------------------------------------- | :------------------ | :----: |
-| **Claude Code**                         | Rolling Code School | `2026` |
-| **Prompt Engineering — Frontend**       | UTN.BA              | `2026` |
-| **Diplomatura en Desarrollo Web UX/UI** | UTN.BA              | `2025` |
-| **Diplomatura en Agile Management**     | Agencia I + UTN TUC | `2024` |
-| **JavaScript / React — Nivel Avanzado** | Global Learning     | `2023` |
-| **Full Stack Web Developer**            | Rolling Code School | `2022` |
+<details open>
+<summary><strong>2026 · IA + Frontend</strong></summary>
 
-<br />
+**🤖 Claude Code**  
+Rolling Code School · `#Rolling Certified Professionals`  
+**Julio de 2026**
+
+**💻 Prompt Engineering para desarrolladores FrontEnd**  
+UTN.BA · Centro de e-Learning, Facultad Regional Buenos Aires  
+82 horas · **Nota: Excelente** · **Febrero de 2026**
+
+</details>
+
+<details>
+<summary><strong>2025 · UX/UI</strong></summary>
+
+**🎨 Diplomatura en Desarrollo Web UX/UI**  
+UTN.BA · Centro de e-Learning, Facultad Regional Buenos Aires  
+105 horas · **Nota: Sobresaliente** · **Septiembre de 2025**
+
+</details>
+
+<details>
+<summary><strong>2024 → 2022 · Gestión + Desarrollo</strong></summary>
+
+**🚀 Diplomatura Universitaria en Agile Management**  
+Agencia I + UTN TUC · Facultad Regional Tucumán, Universidad Nacional de Tucumán  
+130 horas teórico-prácticas (4 meses) · **Julio de 2024**
+
+**⚛️ JavaScript / React — Nivel Avanzado**  
+Global Learning Digital Empowerment · Yerba Buena / Clúster Tecnológico Tucumán  
+**2023**
+
+**🛠️ FullStack Web Developer**  
+Rolling Code School  
+**Febrero – Octubre de 2022**
+
+</details>
 
 ---
 
-## ✦ Mi forma de trabajar
+## 💼 Experiencia profesional
 
-<div align="center">
+### Fundación Valores Para Mi Ciudad
+**Programadora Full Stack · marzo 2026 – Presente**
 
-**Entender** → **Diseñar** → **Construir** → **Probar** → **Mejorar**
+- Desarrollo de la página web institucional utilizando React Vite y herramientas de Inteligencia Artificial (Antigravity CLI).
+- Diseño de la experiencia de usuario (UX/UI) y optimización en la estructuración de la información de la organización.
+- Implementación de métodos sencillos de contacto directo (WhatsApp) y donaciones a pedido del cliente.
 
-<br />
+### Bless Inmobiliaria
+**Programadora Full Stack · febrero 2026 – Presente**
 
-*Tecnología con propósito, aprendizaje constante y un poco de humor en el camino.* ✨
+- Desarrollo integral de la web institucional y del sistema de gestión interno con su backend y API REST propia.
+- Gestión de la plataforma para el control de publicaciones de propiedades y canales de contacto de los agentes inmobiliarios, utilizando el stack completo de desarrollo, React Vite y asistencia de agentes de IA (Antigravity).
+- Creación y diseño del flujo UX/UI completo del sistema.
 
-</div>
+### SIGMMA.net
+**Desarrolladora de Front-end · mayo 2024 – Presente**
 
-<br />
+- Desarrollo de una aplicación web para clientes de las agencias integradas a SIGMMA, permitiendo la gestión autónoma de pagos, estados de cuenta y creación de usuarios desde backoffice y plataforma, con múltiples pasarelas de pago: Mercado Pago, Macroclick, Modo y Bancard.
+- Creación de la nueva web institucional en Next.js junto a equipos de diseño UX/UI, integrando una calculadora de fuga basada en parámetros personalizados y automatizaciones con GoHighLevel.
+- Enfoque especializado en SEO, incluyendo optimizaciones para motores de búsqueda basados en IA, y rendimiento web.
+- Desarrollo de una plataforma de academia con React Vite, Express.js, Node.js y Claude Code, con diseño UX/UI propio utilizando Claude Design, para capacitar y certificar agencias según sus planes contratados.
+- Participación temporal en la planificación estratégica de un nuevo sistema de autogestión en Next.js.
+
+### Iglesia de Cristo Tucumán
+**Desarrolladora Front-end · noviembre 2025 – Presente**
+
+- Desarrollo de la interfaz web institucional bajo parámetros de diseño UX/UI alineados con la identidad de proyectos previos, enfocada en la difusión informativa de la institución y sus creencias.
+
+### Instituto NOA San Miguel de Tucumán
+**Profesora · agosto 2025 – Presente**
+
+- Impartición de clases de introducción a la programación (HTML, CSS y JavaScript).
+- Combinación de teoría fundamental con recursos audiovisuales y espacios de mentoría sobre el ecosistema IT, el mercado laboral y el uso intensivo de herramientas de Inteligencia Artificial aplicadas a la comprensión teórica y práctica.
+
+### CONTI Latam®
+**Desarrolladora de Front-end · noviembre 2024 – diciembre 2025**
+
+- Desarrollo de interfaces y soluciones frontend orientadas a los proyectos tecnológicos de la compañía.
+
+### La Quiaqueña Drugstores
+**Desarrolladora Web · julio 2022 – febrero 2023**
+
+- Creación de una página web de comercio electrónico para una cadena de drugstores, facilitando la compra en línea y la comunicación directa vía WhatsApp.
+- Primer proyecto desarrollado de forma independiente abarcando tanto el Frontend como el Backend, consolidando la experiencia profesional inicial en el desarrollo web.
 
 ---
 
-<div align="center">
+## 🧩 Lo que me define técnicamente
 
-### ¿Construimos algo interesante?
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-3E000C?style=for-the-badge" alt="Frontend">
+  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express-7C0B2B?style=for-the-badge" alt="Backend">
+  <img src="https://img.shields.io/badge/UX%2FUI-Design%20%7C%20Usability-D10000?style=for-the-badge" alt="UX/UI">
+  <img src="https://img.shields.io/badge/AI-Claude%20Code%20%7C%20Antigravity-FB4B4E?style=for-the-badge&logoColor=201A1E" alt="AI">
+  <img src="https://img.shields.io/badge/Automation-GoHighLevel-7C0B2B?style=for-the-badge" alt="Automation">
+</p>
 
-[![Portfolio](https://img.shields.io/badge/VER_PORTFOLIO-201a1e?style=for-the-badge\&logo=netlify\&logoColor=FB4B4E\&labelColor=3E000C)](https://mcecilialuna-dev.netlify.app/)
+> **Mi idea de un buen desarrollo:** tecnología que resuelve, diseño que se entiende y un equipo que puede disfrutar el proceso.
 
-<br />
+---
 
-<img src="./footer.svg" alt="Footer" width="100%" />
+## 🎥 Caso de éxito
 
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4pwIPI3ecD8&t=231s">
+    <img src="https://img.shields.io/badge/▶_Ver_entrevista_en_Rolling_Code-3E000C?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="Ver entrevista en Rolling Code">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4pwIPI3ecD8&t=231s">
+    Entrevista en Rolling Code como caso de éxito
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/cecilia-readme-footer.svg" alt="Gracias por pasar — let's build something meaningful" width="100%">
+</p>
