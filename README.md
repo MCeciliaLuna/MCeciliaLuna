@@ -1,177 +1,217 @@
 <div align="center">
-  <img src="./header.svg" alt="Header" />
-</div>
 
-<h3 align="center">Transformando ideas en experiencias web dinámicas e intuitivas ✨</h3>
+<img src="./header.svg" alt="Cecilia Luna — Full Stack Developer" width="100%" />
 
-<p align="center">
-  <em>Desarrollo, diseño, tecnología e inteligencia artificial con propósito.</em>
-</p>
-
-<br/>
-
-<p align="center">
-  Disfruto de todo el proceso creativo, desde la primera idea hasta el producto final.
-  Me encanta aprender, experimentar y mantenerme siempre actualizada, especialmente
-  en un ecosistema que cambia tan rápido como el desarrollo web.
-</p>
-
-<p align="center">
-  Pongo mi stack, mi energía y mi compromiso a disposición de cada proyecto.
-  Me adapto fácilmente al trabajo en equipo, pero también soy muy autogestionable
-  cuando toca avanzar por cuenta propia.
-  Y, dato de color: <strong>no tengo miedo a aparecer frente a una cámara</strong>. 🎥
-</p>
-
-<p align="center">
-  También disfruto muchísimo compartir lo que sé y acompañar a otras personas
-  en sus primeros pasos dentro de la programación.
-</p>
-
-<p align="center">
-  <strong>
-    Creo que los mejores productos nacen cuando hay un propósito claro,
-    un gran equipo y, obvio, un par de risas en el medio.
-  </strong> 🚀
-</p>
-
-<br/>
-
-<div align="center">
-
-  <a href="https://mcecilialuna-dev.netlify.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-201a1e?style=for-the-badge&logo=netlify&logoColor=FB4B4E&labelColor=3E000C"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=4pwIPI3ecD8&t=231s">
-    <img
-      src="https://img.shields.io/badge/Entrevista_Rolling_Code-201a1e?style=for-the-badge&logo=youtube&logoColor=D10000&labelColor=3E000C"
-      alt="Entrevista en YouTube"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mcecilialuna/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-201a1e?style=for-the-badge&logo=linkedin&logoColor=FFCBDD&labelColor=3E000C"
-      alt="LinkedIn"
-    />
-  </a>
-
-</div>
-
-<br/>
-
----
-
-## 🎯 Stack tecnológico
-
-<div align="center">
-
-<img
- src="https://img.shields.io/badge/-React.js-201a1e?style=for-the-badge&logo=react&logoColor=FB4B4E"
- alt="React.js"
-/>
-
-<img
- src="https://img.shields.io/badge/-Next.js-201a1e?style=for-the-badge&logo=nextdotjs&logoColor=FB4B4E"
- alt="Next.js"
-/>
-
-<img
- src="https://img.shields.io/badge/-JavaScript-201a1e?style=for-the-badge&logo=javascript&logoColor=FB4B4E"
- alt="JavaScript"
-/>
-
-<img
- src="https://img.shields.io/badge/-HTML5-201a1e?style=for-the-badge&logo=html5&logoColor=FB4B4E"
- alt="HTML5"
-/>
-
-<img
- src="https://img.shields.io/badge/-CSS3-201a1e?style=for-the-badge&logo=css3&logoColor=FB4B4E"
- alt="CSS3"
-/>
-
-</div>
-
-<div align="center">
-
-<img
- src="https://img.shields.io/badge/-Node.js-3E000C?style=for-the-badge&logo=nodedotjs&logoColor=FFCBDD"
- alt="Node.js"
-/>
-
-<img
- src="https://img.shields.io/badge/-Express.js-3E000C?style=for-the-badge&logo=express&logoColor=FFCBDD"
- alt="Express.js"
-/>
-
-<img
- src="https://img.shields.io/badge/-MongoDB-3E000C?style=for-the-badge&logo=mongodb&logoColor=FFCBDD"
- alt="MongoDB"
-/>
-
-</div>
-
-<div align="center">
-
-<img
- src="https://img.shields.io/badge/-Claude_Code-7C0B2B?style=for-the-badge&logo=anthropic&logoColor=fbf9f4"
- alt="Claude Code"
-/>
-
-<img
- src="https://img.shields.io/badge/-Antigravity_🚀-7C0B2B?style=for-the-badge&logoColor=fbf9f4"
- alt="Antigravity"
-/>
-
-<img
- src="https://img.shields.io/badge/-Prompt_Engineering-7C0B2B?style=for-the-badge&logo=openai&logoColor=fbf9f4"
- alt="Prompt Engineering"
-/>
-
-<img
- src="https://img.shields.io/badge/-GoHighLevel-D10000?style=for-the-badge&logo=gohighlevel&logoColor=fbf9f4"
- alt="GoHighLevel"
-/>
-
-</div>
-
-<br/>
-
----
-
-## ⚡ Skills destacados
-
-* 🎨 **UX/UI:** Diseño centrado en las personas, usabilidad e interfaces eficientes, respaldado por la **Diplomatura en Desarrollo Web UX/UI de UTN.BA**.
-
-* 🚀 **Gestión de proyectos ágiles:** Aplicación de metodologías ágiles, organización de proyectos y trabajo colaborativo.
-
-* 🤖 **IA aplicada al desarrollo:** Uso avanzado de herramientas de inteligencia artificial orientadas al desarrollo frontend, incluyendo **Claude Code** y **Antigravity**.
-
-* 👩‍🏫 **Docencia y mentoría:** Enseñanza de programación e incorporación de metodologías de aprendizaje asistidas por IA.
-
-* 💡 **Resolución de problemas:** Capacidad para transformar necesidades e ideas en soluciones digitales funcionales, intuitivas y escalables.
-
----
-
-## 🧠 Actualmente
-
-<div align="center">
+### Transformando ideas en experiencias web dinámicas e intuitivas ✨
 
 **Frontend · Full Stack · UX/UI · IA aplicada · Docencia**
 
-<br/>
+<br />
 
-`Construir` → `Aprender` → `Compartir` → `Iterar`
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-201a1e?style=for-the-badge\&logo=netlify\&logoColor=FB4B4E\&labelColor=3E000C)](https://mcecilialuna-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-201a1e?style=for-the-badge\&logo=linkedin\&logoColor=FFCBDD\&labelColor=3E000C)](https://www.linkedin.com/in/mcecilialuna/)
+[![YouTube](https://img.shields.io/badge/ENTREVISTA-201a1e?style=for-the-badge\&logo=youtube\&logoColor=D10000\&labelColor=3E000C)](https://www.youtube.com/watch?v=4pwIPI3ecD8&t=231s)
 
 </div>
 
-<br/>
+<br />
+
+---
+
+## ✦ Sobre mí
+
+> **Desarrollo productos digitales con propósito, combinando tecnología, experiencia de usuario y creatividad.**
+
+Disfruto de todo el proceso creativo, desde transformar una idea inicial en una solución concreta hasta verla funcionando en manos de las personas que la necesitan.
+
+Me gusta aprender, experimentar y mantenerme actualizada, especialmente en un ecosistema tan dinámico como el desarrollo web.
+
+Trabajo cómodamente en equipo, pero también soy muy autogestionable. Me involucro, propongo, resuelvo y busco que cada decisión tenga un sentido real dentro del proyecto.
+
+Y sí: **no tengo miedo a aparecer frente a una cámara.** 🎥
+
+<br />
+
+---
+
+## ⚡ Stack tecnológico
+
+### Frontend
 
 <div align="center">
-  <img src="./footer.svg" alt="Footer" />
+
+![React](https://img.shields.io/badge/React.js-201a1e?style=for-the-badge\&logo=react\&logoColor=FB4B4E)
+![Next.js](https://img.shields.io/badge/Next.js-201a1e?style=for-the-badge\&logo=nextdotjs\&logoColor=FB4B4E)
+![JavaScript](https://img.shields.io/badge/JavaScript-201a1e?style=for-the-badge\&logo=javascript\&logoColor=FB4B4E)
+![HTML5](https://img.shields.io/badge/HTML5-201a1e?style=for-the-badge\&logo=html5\&logoColor=FB4B4E)
+![CSS3](https://img.shields.io/badge/CSS3-201a1e?style=for-the-badge\&logo=css3\&logoColor=FB4B4E)
+
+</div>
+
+### Backend
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-3E000C?style=for-the-badge\&logo=nodedotjs\&logoColor=FFCBDD)
+![Express.js](https://img.shields.io/badge/Express.js-3E000C?style=for-the-badge\&logo=express\&logoColor=FFCBDD)
+![MongoDB](https://img.shields.io/badge/MongoDB-3E000C?style=for-the-badge\&logo=mongodb\&logoColor=FFCBDD)
+
+</div>
+
+### AI & Automation
+
+<div align="center">
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-7C0B2B?style=for-the-badge\&logo=anthropic\&logoColor=FBF9F4)
+![Antigravity](https://img.shields.io/badge/Antigravity-7C0B2B?style=for-the-badge\&logoColor=FBF9F4)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C0B2B?style=for-the-badge\&logo=openai\&logoColor=FBF9F4)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-D10000?style=for-the-badge\&logo=gohighlevel\&logoColor=FBF9F4)
+
+</div>
+
+<br />
+
+---
+
+## 🎯 Lo que hago
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 UX/UI
+
+Diseño centrado en las personas, usabilidad e interfaces eficientes.
+
+**Diplomatura en Desarrollo Web UX/UI — UTN.BA**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Desarrollo
+
+Construcción de aplicaciones web modernas, funcionales y escalables.
+
+**Frontend + Full Stack**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Inteligencia Artificial
+
+Integración de IA en procesos de desarrollo, productividad y aprendizaje.
+
+**Claude Code · Antigravity · Prompt Engineering**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👩‍🏫 Docencia
+
+Enseñanza de programación y acompañamiento de personas que están comenzando.
+
+**Programación + metodologías asistidas por IA**
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+## 💼 Experiencia
+
+### 💻 Programadora Full Stack
+
+**Fundación Valores Para Mi Ciudad** · `Mar 2026 — Presente`
+
+Desarrollo y mantenimiento de soluciones web orientadas a las necesidades de la organización.
+
+### 🏠 Programadora Full Stack
+
+**Bless Inmobiliaria** · `Feb 2026 — Presente`
+
+Desarrollo de soluciones digitales para el sector inmobiliario.
+
+### 🌐 Desarrolladora Front-end
+
+**SIGMMA.net** · `May 2024 — Presente`
+
+Desarrollo de interfaces web y soluciones frontend.
+
+### ⛪ Desarrolladora Front-end
+
+**Iglesia de Cristo Tucumán** · `Nov 2025 — Presente`
+
+Desarrollo y mantenimiento de experiencias digitales.
+
+### 👩‍🏫 Profesora de Programación
+
+**Instituto NOA — San Miguel de Tucumán** · `Ago 2025 — Presente`
+
+Enseñanza de programación y acompañamiento del proceso de aprendizaje.
+
+### 📱 Desarrolladora Front-end
+
+**CONTI Latam®** · `Nov 2024 — Dic 2025`
+
+Desarrollo frontend de soluciones digitales.
+
+### 🛒 Desarrolladora Web
+
+**La Quiaqueña Drugstores** · `Jul 2022 — Feb 2023`
+
+Desarrollo y mantenimiento de soluciones web para el comercio.
+
+<br />
+
+---
+
+## 🎓 Formación
+
+| Formación                               | Institución         |   Año  |
+| :-------------------------------------- | :------------------ | :----: |
+| **Claude Code**                         | Rolling Code School | `2026` |
+| **Prompt Engineering — Frontend**       | UTN.BA              | `2026` |
+| **Diplomatura en Desarrollo Web UX/UI** | UTN.BA              | `2025` |
+| **Diplomatura en Agile Management**     | Agencia I + UTN TUC | `2024` |
+| **JavaScript / React — Nivel Avanzado** | Global Learning     | `2023` |
+| **Full Stack Web Developer**            | Rolling Code School | `2022` |
+
+<br />
+
+---
+
+## ✦ Mi forma de trabajar
+
+<div align="center">
+
+**Entender** → **Diseñar** → **Construir** → **Probar** → **Mejorar**
+
+<br />
+
+*Tecnología con propósito, aprendizaje constante y un poco de humor en el camino.* ✨
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+### ¿Construimos algo interesante?
+
+[![Portfolio](https://img.shields.io/badge/VER_PORTFOLIO-201a1e?style=for-the-badge\&logo=netlify\&logoColor=FB4B4E\&labelColor=3E000C)](https://mcecilialuna-dev.netlify.app/)
+
+<br />
+
+<img src="./footer.svg" alt="Footer" width="100%" />
+
 </div>
