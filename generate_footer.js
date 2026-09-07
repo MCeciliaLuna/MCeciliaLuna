@@ -1,0 +1,23 @@
+const fs = require('fs');
+const https = require('https');
+
+async function main() {
+  const svgContent = `<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB4B4E" />
+      <stop offset="33%" stop-color="#D10000" />
+      <stop offset="66%" stop-color="#7C0B2B" />
+      <stop offset="100%" stop-color="#3E000C" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with waving effect on top -->
+  <path d="M0,100 L800,100 L800,30 Q700,0 500,30 T200,30 Q100,50 0,30 Z" fill="url(#grad1)" />
+</svg>`;
+
+  fs.writeFileSync('footer.svg', svgContent);
+  console.log('footer.svg created.');
+}
+
+main();
